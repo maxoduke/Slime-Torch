@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "slimetorch:item/slime_torch_off"
+  },
+  "overrides": [
+    { "predicate": { "lit": 0.0 }, "model": "slimetorch:item/slime_torch" },
+    { "predicate": { "lit": 1.0 }, "model": "slimetorch:item/slime_torch_on" }
+  ]
+}
