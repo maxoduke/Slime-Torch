@@ -1,3 +1,6 @@
+//file:noinspection GroovyAssignabilityCheck
+//file:noinspection VulnerableLibrariesLocal
+//file:noinspection DependencyNotationArgument
 plugins {
     id 'idea'
     id 'maven-publish'
